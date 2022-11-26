@@ -9,4 +9,4 @@ Cereal
 Cucmbers
 Raddishes
 English Walnuts
-//READ ME  - add pears//
+Pears
